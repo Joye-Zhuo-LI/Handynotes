@@ -8,6 +8,7 @@ importlib.reload(you_package)
 
 ## Add Path
 ```python 
+import sys
 module_dir ="modules/"
 if module_dir not in sys.path:
     sys.path.insert(0, module_dir)
