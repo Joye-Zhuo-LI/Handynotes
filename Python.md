@@ -31,3 +31,11 @@ os.environ["CURL_CA_BUNDLE"] = ""
 import reqests
 requests.get(url,verify = False)
 ```
+
+## inspect code 
+```python 
+import module
+import inspect
+src = inspect.getsource(module)
+print(src)
+```
