@@ -43,5 +43,6 @@ print(src)
 ## Convert string to datetime
 ```python 
 from datetime import datetime
+#Fri Nov 20 19:40:26 +0000 2020
 df['date'] = [datetime.strptime(item, '%a %b %d %H:%M:%S +0000 %Y') for item in df['date']  ]
 ```
