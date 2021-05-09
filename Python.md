@@ -39,3 +39,9 @@ import inspect
 src = inspect.getsource(module)
 print(src)
 ```
+
+## Convert string to datetime
+```python 
+from datetime import datetime
+df['date'] = [datetime.strptime(item, '%a %b %d %H:%M:%S +0000 %Y') for item in df['date']  ]
+```
