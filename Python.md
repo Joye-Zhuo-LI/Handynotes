@@ -14,6 +14,13 @@ if module_dir not in sys.path:
     sys.path.insert(0, module_dir)
 ```
 
+## Relative Path
+```python 
+from os import getcwd
+filePath = f"{getcwd()}/modules/"
+```
+
+
 ## Disable SSL Verfication 
 
 ### Global 
