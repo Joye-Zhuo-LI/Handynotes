@@ -1,1 +1,100 @@
-<mxfile host="app.diagrams.net" modified="2021-09-16T03:24:34.784Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" version="15.2.7" etag="zcReGbKPZKYLFhrFcU9Z" type="github"><diagram id="2V8oEZFdSDKDPdRD9qXk">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-09-16T04:07:42.960Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="Yqzo3KCtec-cpFKv8LX0" version="15.2.7" type="github">
+  <diagram id="2V8oEZFdSDKDPdRD9qXk" name="Page-1">
+    <mxGraphModel dx="1351" dy="923" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GW5T7Xvz68v6WFDwm0MY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GW5T7Xvz68v6WFDwm0MY-1" target="GW5T7Xvz68v6WFDwm0MY-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="130" />
+              <mxPoint x="891" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GW5T7Xvz68v6WFDwm0MY-1" value="Risk Sensing Production" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GW5T7Xvz68v6WFDwm0MY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GW5T7Xvz68v6WFDwm0MY-2" target="GW5T7Xvz68v6WFDwm0MY-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="790" y="130" />
+              <mxPoint x="870" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GW5T7Xvz68v6WFDwm0MY-2" value="Risk Sensing&lt;br&gt;(Labeling Taskforce)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="723" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GW5T7Xvz68v6WFDwm0MY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GW5T7Xvz68v6WFDwm0MY-3" target="GW5T7Xvz68v6WFDwm0MY-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1016" y="130" />
+              <mxPoint x="870" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GW5T7Xvz68v6WFDwm0MY-3" value="DXI Risk Sensing POC" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="947" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GW5T7Xvz68v6WFDwm0MY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="GW5T7Xvz68v6WFDwm0MY-4" target="GW5T7Xvz68v6WFDwm0MY-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="810" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1230" y="130" />
+              <mxPoint x="891" y="130" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GW5T7Xvz68v6WFDwm0MY-4" value="&lt;span&gt;DXI Risk Sensing&amp;nbsp;&lt;br&gt;Production&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GW5T7Xvz68v6WFDwm0MY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GW5T7Xvz68v6WFDwm0MY-10" target="GW5T7Xvz68v6WFDwm0MY-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="937" y="101" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="891" y="281" />
+              <mxPoint x="691" y="281" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GW5T7Xvz68v6WFDwm0MY-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GW5T7Xvz68v6WFDwm0MY-10" target="GW5T7Xvz68v6WFDwm0MY-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="891" y="246" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GW5T7Xvz68v6WFDwm0MY-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GW5T7Xvz68v6WFDwm0MY-10" target="GW5T7Xvz68v6WFDwm0MY-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="846" y="281" />
+              <mxPoint x="1101" y="281" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GW5T7Xvz68v6WFDwm0MY-10" value="25,993 Labels&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#ea6b66&quot;&gt;12,906 Paragraphs&lt;/font&gt;&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="826" y="166" width="130" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="GW5T7Xvz68v6WFDwm0MY-12" value="í ½í¸‰&lt;br&gt;Consistent&amp;nbsp;&lt;br&gt;17253 Labels&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#ea6b66&quot;&gt;7801 Paragraphs&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="631" y="330" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="GW5T7Xvz68v6WFDwm0MY-13" value="í ¾íµ²&lt;br&gt;Inconsistent&lt;br&gt;7227 Labels&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#ea6b66&quot;&gt;3581 Pragraphs&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="831" y="330" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="GW5T7Xvz68v6WFDwm0MY-16" value="í ¾íµ²&lt;br&gt;Singel&lt;br&gt;1541 Labels&lt;br&gt;&lt;b&gt;&lt;font color=&quot;#ea6b66&quot;&gt;1541 Pragraphs&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1031" y="330" width="120" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="GW5T7Xvz68v6WFDwm0MY-21" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="470" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GW5T7Xvz68v6WFDwm0MY-23" value="Golden Labels" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="166" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
